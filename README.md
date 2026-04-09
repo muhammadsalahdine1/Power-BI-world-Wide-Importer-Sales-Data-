@@ -95,7 +95,7 @@ create bar chart
 - Change the number of decimal places shown to 2 instead of Auto.
 - Change the default aggregation from Sum to Average .
 - Repeat the same format and decimal place changes to the Profit column.
- <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/17.PNG" width="500">
+ <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/17.PNG" width="1000">
 
 ### Making maps with geographic data
 #### Maps are an engaging way to present data with a geographic layer. 
@@ -105,11 +105,20 @@ create bar chart
 #### Load the dimension table DimCity.
 #### make sure a relationship is found between DimCity and FactSale.
 #### In the Table view, change the Data category of DimCity's State Province to "State or Province".
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/18.PNG" width="500">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/18.PNG" width="1000">
 
 ### In the Table view, change the Data category of DimCity's State Province to "State or Province".
 ### Make sure the default summarization for Profit from FactSale is "Average".
 ### Create a Map visualization using State Province as Location and Profit as Bubble size.
 ### Add a Slicer for the Buying Group field from the DimCustomer table.
 ### We can ask quuestions like: Using the map and the slicer, which state generates the highest average profit for the "Wingtip Toys"?
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="500">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="1000">
+
+### Changing visuals
+### Time to get to work! I'm are going to change and format visuals. 
+### First, I'll turn the donut chart into a tree map to get a better understanding of the product categories. 
+### Then, I'll change the simple card visual to a multi-row card by adding scenario name to it so that it's possible to closely track the actual, forecasted, and budgeted amounts.
+<div>
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/20.PNG" width="500">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/21.PNG" width="500">
+<\div>
