@@ -1,4 +1,4 @@
-<img width="1862" height="727" alt="image" src="https://github.com/user-attachments/assets/5eff2ca7-9205-4866-bf7a-a70ffb2c818c" /># Power-BI-world-Wide-Importer-Sales-Data-
+# Power-BI-world-Wide-Importer-Sales-Data-
 ## Dataset world_wide_importer_data 
 FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
 
