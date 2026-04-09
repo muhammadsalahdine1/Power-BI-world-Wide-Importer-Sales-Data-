@@ -114,11 +114,5 @@ create bar chart
 ### We can ask quuestions like: Using the map and the slicer, which state generates the highest average profit for the "Wingtip Toys"?
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="1000">
 
-### Changing visuals
-### Time to get to work! I'm are going to change and format visuals. 
-### First, I'll turn the donut chart into a tree map to get a better understanding of the product categories. 
-### Then, I'll change the simple card visual to a multi-row card by adding scenario name to it so that it's possible to closely track the actual, forecasted, and budgeted amounts.
-<div>
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/20.PNG" width="500">
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/21.PNG" width="500">
-<\div>
+
+
