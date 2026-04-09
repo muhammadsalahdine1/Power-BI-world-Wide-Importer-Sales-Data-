@@ -1,4 +1,4 @@
-# Power-BI-world-Wide-Importer-Sales-Data-
+<img width="1862" height="727" alt="image" src="https://github.com/user-attachments/assets/5eff2ca7-9205-4866-bf7a-a70ffb2c818c" /># Power-BI-world-Wide-Importer-Sales-Data-
 ## Dataset world_wide_importer_data 
 FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
 
@@ -88,3 +88,28 @@ create bar chart
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/15.PNG" width="500">
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/16.PNG" width="500">
 </div>
+
+### Let's improve the formatting of the Profit and the Total Including Tax columns so it's immediately clear they are monetary values, unlike Quantity.
+- In the Table view of FactSale, select the Total Including Tax column.
+- Using Column tools, change the format to Currency.
+- Change the number of decimal places shown to 2 instead of Auto.
+- Change the default aggregation from Sum to Average .
+- Repeat the same format and decimal place changes to the Profit column.
+ <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/17.PNG" width="500">
+
+### Making maps with geographic data
+#### Maps are an engaging way to present data with a geographic layer. 
+#### Imagine we wanted to depict the profit each state in the US generates. 
+#### We could create a bar chart showing the states and the profit they generate. However, since there are 50 states, 
+#### a map is much easier to scan for patterns and outliers.
+#### Load the dimension table DimCity.
+#### make sure a relationship is found between DimCity and FactSale.
+#### In the Table view, change the Data category of DimCity's State Province to "State or Province".
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/18.PNG" width="500">
+
+### In the Table view, change the Data category of DimCity's State Province to "State or Province".
+### Make sure the default summarization for Profit from FactSale is "Average".
+### Create a Map visualization using State Province as Location and Profit as Bubble size.
+### Add a Slicer for the Buying Group field from the DimCustomer table.
+### We can ask quuestions like: Using the map and the slicer, which state generates the highest average profit for the "Wingtip Toys"?
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="500">
