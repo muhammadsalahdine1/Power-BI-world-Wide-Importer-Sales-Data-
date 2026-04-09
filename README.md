@@ -31,3 +31,8 @@ create bar chart
 - Using the slicer I've just added, how much profit did salesperson generate for WWI in specific year?
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/7.PNG" width="1000">
 
+
+### Wide World Importers sells two types of products: chilled and dry. 
+### This is recorded in the database because chilled products require a different kind of packaging. 
+### To compare these product types, I will add the quantity of products sold that are chilled or dry to the column chart.
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/8.PNG" width="1000">
