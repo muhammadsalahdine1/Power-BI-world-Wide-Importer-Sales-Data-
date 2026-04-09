@@ -9,3 +9,4 @@ FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
 
 ### Quantity of items sold per year ?
 create a relationship betweenFactSale's Invoice Date Key and DimDate's Date
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/2.PNG" width="1000">
