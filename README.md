@@ -36,3 +36,28 @@ create bar chart
 ### This is recorded in the database because chilled products require a different kind of packaging. 
 ### To compare these product types, I will add the quantity of products sold that are chilled or dry to the column chart.
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/8.PNG" width="1000">
+
+### Add a table to our report with the details of sales transactions. 
+### With the interactivity of Power BI, this will allow us to see examples of sales based on our selection.
+- Add the dimension field Employee to the table.
+- Add the fact fields to the table: Description, Quantity, Total Including Tax, Profit.
+- Using the table's total row,we can answer question like: how much "Total Including Tax" did "Sophia Hinton" generate in 2016?
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/9.PNG" width="1000">
+
+
+### Raw data usually doesn't arrive in the perfect form when you account for human errors, bugs, and file conversion. 
+### Power BI accounts for this with the Power Query Editor, which allows us to transform data before loading it. 
+### Here, I will load another dimension called DimCustomer, except unlike the others, this file will need to be edited prior to loading.
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/10.PNG" width="1000">
+
+### Remove the first row. It contains mostly blanks and does not provide any useful information.
+- To remove the first row, select the Remove Rows button on the top Home menu.
+- Select Remove Top Rows and specify 1 row in the input, since we only want to remove that one row.
+### Make the resulting first row the header row.
+- Select Use First Row as Headers from the top Home menu.
+### Delete the columns Valid From and Valid To.
+- While selecting the columns you would like to remove, select the Remove Columns button in the top Home menu.
+### Close and apply.
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/11.PNG" width="1000">
+
+
