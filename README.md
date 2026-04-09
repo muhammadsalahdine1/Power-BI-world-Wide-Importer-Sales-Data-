@@ -61,3 +61,30 @@ create bar chart
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/11.PNG" width="1000">
 
 
+### FactSale and DimCustomer should be connected by Customer Key.
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/12.PNG" width="1000">
+
+### Make a clustered column chart using Buying Group from DimCustomer and Total Including Tax from FactSale.
+### Change it so that the value is the minimum of Total Including Tax.
+### According to total including tax, how much was the cheapest sale made to Tailspin Toys?
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/13.PNG" width="1000">
+
+### Earlier you practiced cleaning data at row-level, like deleting erroneous rows or changing the header row. 
+### Now, we'll take a look at issues at the column-level.
+### Create a Card visualization with the Credit Limit field from DimCustomer.
+
+
+### The card show ? -, which is unexpected! Edit the query of DimCustomer to open up the Power Query Editor and fix the Credit Limit column.
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/14.PNG" width="1000">
+
+### Edit the query of DimCustomer to open up the Power Query Editor and fix the Credit Limit column.
+- Replace values so that ?s are replaced with blanks in Credit Limit.
+- Repeat so that -s are replaced with blanks for the Credit Limit column.
+- Find the Replace values button in the top menu to the right of the Group By button. 
+- The first value inputted should be either ? or - and the second value should be blank.
+- Change the data type of Credit Limit from Text to Decimal Number.
+- Close and apply and return to the Report view. In the card, change the value to be the average Credit Limit.
+<div>
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/15.PNG" width="500">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/16.PNG" width="500">
+</div>
