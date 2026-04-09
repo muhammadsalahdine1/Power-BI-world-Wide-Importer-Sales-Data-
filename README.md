@@ -26,7 +26,8 @@ create bar chart
 ### To do this, we'll add a new dimension table (DimEmployee) and a slicer.
 - Create a relationship between FactSale's Salesperson Key and DimEmployee's Employee Key.
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/6.PNG" width="1000">
+
 ### Add the Employee field to the slicer.
-- Using the slicer you've just added, how much profit did salesperson "Taj Shand" generate for WWI in 2014?
+- Using the slicer I've just added, how much profit did salesperson generate for WWI in specific year?
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/7.PNG" width="1000">
 
