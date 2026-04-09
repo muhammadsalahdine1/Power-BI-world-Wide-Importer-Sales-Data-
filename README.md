@@ -1,6 +1,10 @@
 # Power-BI-world-Wide-Importer-Sales-Data-
 ## Dataset world_wide_importer_data 
-FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
+#### FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/18.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/9.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="1000">
+
 
 
 ### Let's breakdown the report by questions?
