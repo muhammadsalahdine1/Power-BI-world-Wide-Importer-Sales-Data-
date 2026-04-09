@@ -18,3 +18,6 @@ create bar chart
 - Select the Profit field from FactSale
 <img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/4.PNG" width="1000">
 
+#### Select the year 2014 bar. How does the profit card change?
+<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/5.PNG" width="1000">
+
