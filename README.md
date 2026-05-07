@@ -1,9 +1,12 @@
 # Power-BI-world-Wide-Importer-Sales-Data-
 ## Dataset world_wide_importer_data 
 #### FactSale - DimCity - DimCustomer - DimDate - DimEmployee - DimStockItem
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/18.PNG" width="1000">
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/9.PNG" width="1000">
-<img src="https://github.com/muhammadsalahdine1/Power-BI-world-Wide-Importer-Sales-Data-/blob/main/19.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/1.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/2.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/3.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/5.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/6.PNG" width="1000">
+
 
 
 
